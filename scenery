@@ -1,0 +1,8 @@
+class Scenery:
+    def __init__(self, start_x, y):
+        self.start_x = start_x
+        self.x = start_x
+        self.y = y
+
+    def move(self, dx):
+        self.x -= dx
