@@ -1,3 +1,5 @@
+### CODE IS DEMONSTRATIVE ONLY, DOES NOT WORK.
+
 # main.py
 
 from player import Player
